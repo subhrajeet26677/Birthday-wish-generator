@@ -12,6 +12,7 @@ let visibility = 0;
 let arrayName = "";
 let i = 0;
 let times = 0;
+hink
 
 let textBody = document.querySelector("#wish-text");
 let card = document.querySelector(".card-container");
